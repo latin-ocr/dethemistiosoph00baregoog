@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dethemistiosoph00baregoog_0003.png"; bbox 0 0 869 1317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 258 647 526 670">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 258 647 526 670">
+     <span class='ocr_line' id='line_1_1' title="bbox 258 647 526 670; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 258 647 343 668; x_wconf 61' lang='lat' dir='ltr'>mutuatu</span> <span class='ocrx_word' id='word_1_2' title='bbox 359 647 434 670; x_wconf 67' lang='lat' dir='ltr'>OEullrm</span> <span class='ocrx_word' id='word_1_3' title='bbox 448 647 526 670; x_wconf 63' lang='grc' dir='ltr'>ἔιίὴτᾶτρ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 354 695 432 704">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 354 695 432 704">
+     <span class='ocr_line' id='line_1_2' title="bbox 354 695 432 704; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 354 695 391 704; x_wconf 67' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_5' title='bbox 401 695 432 704; x_wconf 71' lang='grc' dir='ltr'>τιικ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 237 730 549 743">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 237 730 549 743">
+     <span class='ocr_line' id='line_1_3' title="bbox 237 730 549 743; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 237 730 429 743; x_wconf 66' lang='lat' dir='ltr'>SALISBURY</span> <span class='ocrx_word' id='word_1_7' title='bbox 457 730 549 742; x_wconf 49' lang='lat' dir='ltr'>EUNLL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 210 791 260 819">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 210 791 260 819">
+     <span class='ocr_line' id='line_1_4' title="bbox 210 791 260 803; baseline 0 -3"><span class='ocrx_word' id='word_1_8' title='bbox 210 791 222 800; x_wconf 71' lang='lat' dir='ltr'>hv</span> <span class='ocrx_word' id='word_1_9' title='bbox 236 791 260 803; x_wconf 45' lang='lat'>1⁴35</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 229 807 243 819; baseline -0.143 0"><span class='ocrx_word' id='word_1_10' title='bbox 229 807 243 819; x_wconf 73' lang='lat' dir='ltr'>(c</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 82 76 746 1170">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 82 76 746 1170">
+     <span class='ocr_line' id='line_1_6' title="bbox 82 76 746 1170; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 82 76 746 1170; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
